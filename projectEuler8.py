@@ -1,4 +1,5 @@
-
+### M. Enes İnalcık ###
+## 28.08.2018 ##
 def index_finder(m):
 
 	index = 0
